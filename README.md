@@ -9,7 +9,7 @@ Daha önceki günlerde redux store'u oluşturmayı, middleware kavramını, useS
 **_Görevlerinizi tek tek tamamladığınızdan ve ilerlemeden önce her bir görevi test ettiğinizden emin olun._**
 
 ## Talimatlar
-
+   
 ### Görev 1: Proje Kurulumu
 
 - [ ] Forklayın.
